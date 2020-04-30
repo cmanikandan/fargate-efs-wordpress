@@ -1,0 +1,1 @@
+This repo is for testing a Wordpress deployment on AWS Fargate leveraging the new support for Amazon EFS File Systems - https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-ecs-aws-fargate-support-amazon-efs-filesystems-generally-available/
